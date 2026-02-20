@@ -1,2 +1,16 @@
 # Shooting-game
 This is a shooting game. First of all you have to run this program in Ubuntu Linux. 
+How to run the file in Ubuntu Linux in VS Code is given in the file.
+**"/* * BOTTLE SHOOTER GAME (C Language with ncurses)
+ * * Requirements:
+ * This program uses the ncurses library, which is part of the GNU project.
+ * first run the program in terminal to recognize ncurses library.
+ * To compile: gcc bottle_shooter.c -o bottle_shooter -lncurses
+ * To run: ./bottle_shooter
+ * * Controls:
+ * - Left/Right Arrow Keys: Move launcher
+ * - Spacebar: Shoot bullet
+ * - 'q': Quit game
+ */"
+ **
+ These are the requirements
